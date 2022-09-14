@@ -1,0 +1,97 @@
+EventID	Biomarker	Response	Response_unit	Exposure_duration_day	Dose	Rep1	Rep2	Rep3	Rep4	Rep5	Rep6
+MIE	ROS production	Increase	Relative fluorescent unit	2	0	1.115593251	0.523438132	1.360968616			
+MIE	ROS production	Increase	Relative fluorescent unit	2	0.0008	9.600689108	3.452011275	11.41866215			
+MIE	ROS production	Increase	Relative fluorescent unit	2	0.05	5.27750112	8.604726815	5.343714368			
+MIE	ROS production	Increase	Relative fluorescent unit	2	0.1	14.85264757	12.13225715	27.33086304			
+MIE	ROS production	Increase	Relative fluorescent unit	2	0.2	22.74409937	48.94975582	9.582140638			
+MIE	ROS production	Increase	Relative fluorescent unit	2	0.4	24.0702663	15.17732598	36.64047814			
+KE1	Protein oxidation	Increase	nmol cabonylation/ug protein)	2	0	2.874349909	5.80876787	6.77366886	4.853843264	3.736740246	
+KE1	Protein oxidation	Increase	nmol cabonylation/ug protein)	2	0.0008	3.090487662	2.512362125	3.358851937	5.852888887	33.98006481	
+KE1	Protein oxidation	Increase	nmol cabonylation/ug protein)	2	0.05	3.799533302	2.249603009	3.797578088	3.473291459	3.73777391	
+KE1	Protein oxidation	Increase	nmol cabonylation/ug protein)	2	0.1	3.258260085	16.24432386	2.829965472	6.407949562	2.692725016	
+KE1	Protein oxidation	Increase	nmol cabonylation/ug protein)	2	0.2	2.969884996	48.84889937	3.918228128	2.280604511	10.69282808	
+KE1	Protein oxidation	Increase	nmol cabonylation/ug protein)	2	0.4	112.0678629	9.765385456	12.32921681	NA	NA	
+KE2	Abnormal osmoregulation	Increase	Relative fluorescent unit	2	0	4.02797E-10	3.8104E-10	4.37053E-10	3.79411E-10		
+KE2	Abnormal osmoregulation	Increase	Relative fluorescent unit	2	0.0008	2.86718E-10	2.10367E-10	2.78869E-10	1.57307E-10		
+KE2	Abnormal osmoregulation	Increase	Relative fluorescent unit	2	0.05	1.86297E-10	1.58677E-10	1.52606E-10	2.0021E-10		
+KE2	Abnormal osmoregulation	Increase	Relative fluorescent unit	2	0.1	2.2916E-10	2.18208E-10	1.56739E-10	2.51105E-10		
+KE2	Abnormal osmoregulation	Increase	Relative fluorescent unit	2	0.2	2.13355E-10	2.39245E-10	1.04309E-10	2.10085E-10		
+KE2	Abnormal osmoregulation	Increase	Relative fluorescent unit	2	0.4	1.69355E-10	3.11141E-10	4.44767E-10	1.70345E-10		
+KE3	Abnormal body fluid accumulation	Increase	% control	2	0	0	0	0	0	0	0
+KE3	Abnormal body fluid accumulation	Increase	% control	2	0.0008	0	0	0	0	0	0
+KE3	Abnormal body fluid accumulation	Increase	% control	2	0.05	0	0	0	0	0	0
+KE3	Abnormal body fluid accumulation	Increase	% control	2	0.1	0	0	0	0	0	0
+KE3	Abnormal body fluid accumulation	Increase	% control	2	0.2	0	0	0	0	0	0
+KE3	Abnormal body fluid accumulation	Increase	% control	2	0.4	100	33.33333333	100	66.66666667	100	100
+KE4	Lipid peroxidation	Increase	Relative fluorescent unit	2	0	0.969919694	0.97394952	1.056130786			
+KE4	Lipid peroxidation	Increase	Relative fluorescent unit	2	0.0008	1.116431155	0.848997116	1.238671243			
+KE4	Lipid peroxidation	Increase	Relative fluorescent unit	2	0.05	1.118219708	1.061434547	1.148283375			
+KE4	Lipid peroxidation	Increase	Relative fluorescent unit	2	0.1	1.36822378	1.206693167	1.449024963			
+KE4	Lipid peroxidation	Increase	Relative fluorescent unit	2	0.2	1.596111693	1.390403212	2.028414709			
+KE4	Lipid peroxidation	Increase	Relative fluorescent unit	2	0.4	1.495505939	0.772100253	1.114784946			
+KE5	Neutral lipids	Decrease	Relative fluorescent unit	2	0	1.34254624	0.818721828	0.838731932			
+KE5	Neutral lipids	Decrease	Relative fluorescent unit	2	0.0008	0.703684557	1.127206472	0.873394899			
+KE5	Neutral lipids	Decrease	Relative fluorescent unit	2	0.05	1.086106631	0.583906505	0.491760732			
+KE5	Neutral lipids	Decrease	Relative fluorescent unit	2	0.1	0.564286208	1.012965821	0.796614408			
+KE5	Neutral lipids	Decrease	Relative fluorescent unit	2	0.2	0.351875905	0.764707257	0.606815162			
+KE5	Neutral lipids	Decrease	Relative fluorescent unit	2	0.4	0.807429083	0.277983873	0.393360603			
+KE6	ATP	Decrease	ATP (nmol/ug)	2	0	1.660637449	2.298927357	1.941365784	1.569581967		
+KE6	ATP	Decrease	ATP (nmol/ug)	2	0.0008	1.022788321	1.310374463	0.945141891	0.771219007		
+KE6	ATP	Decrease	ATP (nmol/ug)	2	0.05	1.160315007	1.450780783	1.003686185	0.193286166		
+KE6	ATP	Decrease	ATP (nmol/ug)	2	0.1	1.208943798	0.878101481	0.985715662	0.938616516		
+KE6	ATP	Decrease	ATP (nmol/ug)	2	0.2	1.181155893	0.618411814	0.178926975	0.679869572		
+KE6	ATP	Decrease	ATP (nmol/ug)	2	0.4	0.462108255	0.672753936	0.520091964	0.556396744		
+KE7	Mitochondrial membrane potential	Decrease	Relative fluorescent unit	2	0	0.999049673	0.950716694	1.050233633			
+KE7	Mitochondrial membrane potential	Decrease	Relative fluorescent unit	2	0.0008	0.777803113	0.993737976	0.939524398			
+KE7	Mitochondrial membrane potential	Decrease	Relative fluorescent unit	2	0.05	0.737049451	0.659096834	1.080602541			
+KE7	Mitochondrial membrane potential	Decrease	Relative fluorescent unit	2	0.1	0.989682011	0.763603538	0.535558232			
+KE7	Mitochondrial membrane potential	Decrease	Relative fluorescent unit	2	0.2	0.584611487	0.445608031	0.541542963			
+KE7	Mitochondrial membrane potential	Decrease	Relative fluorescent unit	2	0.4	0.805068988	0.930696736	0.860585748			
+KE8	Oxidative phosphorylation	Decrease	Relative fluorescent unit	2	0	1.650188417	2.835481216	1.490404546	1.344617774		
+KE8	Oxidative phosphorylation	Decrease	Relative fluorescent unit	2	0.0008	1.271664326	1.076300838	1.281720125	1.468977053		
+KE8	Oxidative phosphorylation	Decrease	Relative fluorescent unit	2	0.05	0.822227249	1.3774371	1.142164523	1.030706546		
+KE8	Oxidative phosphorylation	Decrease	Relative fluorescent unit	2	0.1	1.438328929	1.073117273	1.077420965	1.085497899		
+KE8	Oxidative phosphorylation	Decrease	Relative fluorescent unit	2	0.2	1.228216392	1.079980615	0.936804582	1.296251465		
+KE8	Oxidative phosphorylation	Decrease	Relative fluorescent unit	2	0.4	1.160303743	1.251356797	1.106270184	1.032348833		
+KE9	Oxidative DNA damage	Increase	pg 8-OHdG/pg DNA	2	0	1.56851E-06	3.73419E-06	6.16361E-06	1.40272E-05		
+KE9	Oxidative DNA damage	Increase	pg 8-OHdG/pg DNA	2	0.0008	8.18216E-06	6.33947E-06	3.81761E-06	7.65885E-06		
+KE9	Oxidative DNA damage	Increase	pg 8-OHdG/pg DNA	2	0.05	5.17124E-06	6.38968E-06	1.49064E-06	8.17865E-06		
+KE9	Oxidative DNA damage	Increase	pg 8-OHdG/pg DNA	2	0.1	5.66598E-06	1.08594E-05	2.0373E-06	7.73473E-06		
+KE9	Oxidative DNA damage	Increase	pg 8-OHdG/pg DNA	2	0.2	2.08437E-05	2.20098E-05	1.02619E-05	1.76261E-05		
+KE9	Oxidative DNA damage	Increase	pg 8-OHdG/pg DNA	2	0.4	1.23712E-05	8.58225E-06	6.58323E-06	1.43701E-05		
+KE10	DNA double-strand break	Increase	Relative fluorescent unit	2	0	0.759331	0.846808241	0.85246562	0.527873725		
+KE10	DNA double-strand break	Increase	Relative fluorescent unit	2	0.0008	0.828222771	0.909568265	1.091321781	0.694260536		
+KE10	DNA double-strand break	Increase	Relative fluorescent unit	2	0.05	0.924466824	0.933815919	0.880338414	1.069934185		
+KE10	DNA double-strand break	Increase	Relative fluorescent unit	2	0.1	1.01447246	1.232950466	0.909010311	1.086177724		
+KE10	DNA double-strand break	Increase	Relative fluorescent unit	2	0.2	1.047341625	1.116612554	1.048094256	1.288898356		
+KE10	DNA double-strand break	Increase	Relative fluorescent unit	2	0.4	0.746428328	0.811852762	0.875675829	1.218362267		
+KE11	Apoptosis	Increase	Relative fluorescent unit	2	0	9.837552027	8.592658745	11.19680178	11.0534943		
+KE11	Apoptosis	Increase	Relative fluorescent unit	2	0.0008	12.33009509	11.37786422	9.5395696	11.1764861		
+KE11	Apoptosis	Increase	Relative fluorescent unit	2	0.05	12.65566777	13.26532398	12.00227535	12.13613465		
+KE11	Apoptosis	Increase	Relative fluorescent unit	2	0.1	16.26637687	15.67462587	13.27299011	16.27239978		
+KE11	Apoptosis	Increase	Relative fluorescent unit	2	0.2	17.36158047	18.07551462	18.8043224	16.25687555		
+KE11	Apoptosis	Increase	Relative fluorescent unit	2	0.4	14.21595207	12.77318262	14.98114559	12.590646		
+AO	Mortality	Increase	% control	7	0	0	0	0	0	0	0
+AO	Mortality	Increase	% control	7	0.0008	0	0	0	0	0	0
+AO	Mortality	Increase	% control	7	0.05	0	0	0	0	0	0
+AO	Mortality	Increase	% control	7	0.1	0	0	0	100	0	0
+AO	Mortality	Increase	% control	7	0.2	100	100	100	0	100	100
+AO	Mortality	Increase	% control	7	0.4	100	100	100	100	100	100
+AO_b	Longevity	Increase	% control	7	0	100	100	100	100	100	100
+AO_b	Longevity	Increase	% control	7	0.0008	100	100	100	100	100	100
+AO_b	Longevity	Increase	% control	7	0.05	100	100	100	100	100	100
+AO_b	Longevity	Increase	% control	7	0.1	100	100	100	85.71428571	100	100
+AO_b	Longevity	Increase	% control	7	0.2	42.85714286	28.57142857	42.85714286	42.85714286	28.57142857	42.85714286
+AO_b	Longevity	Increase	% control	7	0.4	0	28.57142857	28.57142857	14.28571429	14.28571429	28.57142857
+AO_c	Mortality	Increase	% control	2	0	0	0	0	0	0	0
+AO_c	Mortality	Increase	% control	2	0.0008	0	0	0	0	0	0
+AO_c	Mortality	Increase	% control	2	0.05	0	0	0	0	0	0
+AO_c	Mortality	Increase	% control	2	0.1	0	0	0	0	0	0
+AO_c	Mortality	Increase	% control	2	0.2	0	0	0	0	0	0
+AO_c	Mortality	Increase	% control	2	0.4	0	0	0	0	0	0
+AO_d	Longevity	Increase	% control	7	0	0	0	0	0	0	0
+AO_d	Longevity	Increase	% control	7	0.0008	0	0	0	0	0	0
+AO_d	Longevity	Increase	% control	7	0.05	0	0	0	0	0	0
+AO_d	Longevity	Increase	% control	7	0.1	0	0	0	0	0	0
+AO_d	Longevity	Increase	% control	7	0.2	0	0	0	0	0	0
+AO_d	Longevity	Increase	% control	7	0.4	0	0	0	0	0	0
